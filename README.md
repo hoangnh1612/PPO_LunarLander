@@ -6,4 +6,4 @@ Still have some issues.
 
 
 
-After working for a hour, i have fixed it :D. now it works. 
+After working for an hour, i have fixed it :D. now it works. 
